@@ -2,7 +2,7 @@
 
 ---
 
-## Hello!👋 My name is **Christine Joy Marie D. Tulali**. 
+## Hello!👋 My name is **Christine D. Tulali**. 
 I am from **Mariano Marcos State University**, currently taking **Computer Science**. 🎓
 
 I have a strong passion for **Web Development, UI/UX, Data Science, System Administrator, App Developer**!  
