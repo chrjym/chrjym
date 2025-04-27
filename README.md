@@ -23,9 +23,6 @@ I love to join different communities and competitions that involve creating some
 
 ---
 
-## 📌 Quick Facts
-- 🌱 I'm currently learning **[Technology/Skill]**.
- 🎉 Fun Fact: **[A fun fact about you]**
 
 ---
 
