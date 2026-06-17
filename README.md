@@ -5,14 +5,6 @@
 ## Hello!👋 My name is **Christine D. Tulali**. 
 I am from **Mariano Marcos State University**, currently taking **Computer Science**. 🎓
 
-I have a strong passion for **Web Development, UI/UX, Data Science, System Administrator, App Developer**!  
-Currently learning **JavaScript, Python, React, MySql, PHP** and improving my skills every day 🚀.
-
-
-I love to join different communities and competitions that involve creating something valuable for society! 😸
-
----
-
 ## Tools
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
